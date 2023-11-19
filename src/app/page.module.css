@@ -1,0 +1,7 @@
+.content {
+  display: flex;
+  justify-content: center;
+  background-color: aquamarine;
+  width: 120rem;
+  height: 100vh;
+}
